@@ -111,7 +111,7 @@ syntax-highlight: True
 ############
 
 events:
-  - image: "/img/timeline/common_park.png"
+  - image: "/img/timeline/common_park.jpg"
     date: "Oct 10 2016"
     description: "First Autumn Trip on Common Park!"
   - image: "/img/timeline/duck_tour.jpg"
@@ -122,7 +122,7 @@ events:
 
 # First image of the Timeline
 
-timeline-img: "/img/timeline/default.png"
+timeline-img: "/img/timeline/love.jpg"
 
 ###########
 # Contact #
